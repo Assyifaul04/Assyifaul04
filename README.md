@@ -3,11 +3,7 @@
 <h1 align="center">🔥 Ngoding Dulu, Jagonya Belakangan!</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" width="120px" alt="penguin" />
-</p>
-
-<p align="center">
-  <strong>Ngopi dulu ☕, jangan dipaksa~</strong>
+  <strong>Ngopi dulu ☕, lanjut ngoding~</strong>
 </p>
 
 <p align="center">
